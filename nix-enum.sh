@@ -5,8 +5,8 @@
 ###properties to determine if a system should be analyzed further.
 
 ###CHANGELOG
-###201805091300 Ealy - Added documentation for each command, added timedatectl under system info to help keep accurate timestamping
-###201805090400 Ealy - Finished documentation one-liners for script, removed lsof commands (see notes below)
+###201805091300 Haas - Added documentation for each command, added timedatectl under system info to help keep accurate timestamping
+###201805090400 Haas - Finished documentation one-liners for script, removed lsof commands (see notes below)
 ###201805131115 Haas - Cleaned up formatting and changed some arguments to better fit quick-response actions
 ###201806061145 Haas - Commented out some R&D commands; might use later but don't need right now
 ###
@@ -22,18 +22,7 @@
 ###
 ###
 ###
-###
-###
-###
-###
-###
-###
-###
-###
-###
-###
-###
-###
+
 
 printf '%s\n\n' ""
 printf '%s\n' "===================== LINUX TRIAGE SCRIPT ====================="
